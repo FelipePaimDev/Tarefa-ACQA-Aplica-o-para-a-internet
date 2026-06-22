@@ -1,0 +1,37 @@
+# Arquivos do sistema operacional
+
+.DS_Store
+Thumbs.db
+
+# Configurações dos editores
+
+.vscode/
+.idea/
+
+# Dependências do Composer (caso sejam utilizadas futuramente)
+
+vendor/
+composer.lock
+
+# Arquivos de configuração local
+
+.env
+
+# Logs gerados durante testes
+
+*.log
+
+# Arquivos temporários
+
+*.tmp
+*.cache
+
+# Banco de dados local
+
+*.sqlite
+
+# Arquivos compactados
+
+*.zip
+*.rar
+*.7z
